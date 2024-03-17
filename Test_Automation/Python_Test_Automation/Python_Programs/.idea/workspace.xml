@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a2d83f1-6c2c-41de-8838-a0cf0b35edee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python_Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/hometask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/hometask_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/pcl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/hometask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/hometask_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/hometask_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/hometask_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/my_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorsandexceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorsandexceptions/hometask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorsandexceptions/my_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputoutput/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputoutput/diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputoutput/hometask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moreofpython/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moreofpython/homeTask_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/hometask_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/hometask_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/hometask_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/hometask_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonbasics/hometask_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching_sorting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching_sorting/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching_sorting/bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching_sorting/linearsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching_sorting/selectionsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/PostPutDeleteRequests/HomeTask/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/PostPutDeleteRequests/HomeTask/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/dataDrivenTesting/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/dataDrivenTesting/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/dataDrivenTesting/prac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/parameterisation/HomeTask/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/parameterisation/HomeTask/PractiseTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/parameterisation/HomeTask/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/restAssuredIntroduction/HomeTask1/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/main/java/restAssuredIntroduction/HomeTask1/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/test/java/RestAssuredIntroduction/HomeTask1/Task1_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/src/test/java/RestAssuredIntroduction/HomeTask1/Task2_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/PostPutDeleteRequests/HomeTask/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/PostPutDeleteRequests/HomeTask/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/dataDrivenTesting/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/dataDrivenTesting/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/dataDrivenTesting/prac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/parameterisation/HomeTask/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/parameterisation/HomeTask/PractiseTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/parameterisation/HomeTask/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/restAssuredIntroduction/HomeTask1/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/classes/restAssuredIntroduction/HomeTask1/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/test-classes/RestAssuredIntroduction/HomeTask1/Task1_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/RestAssured/RestAssured/target/test-classes/RestAssuredIntroduction/HomeTask1/Task2_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/main/java/base/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/main/java/pageObjects/FilterMobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/main/java/pageObjects/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/main/java/pageObjects/SearchMobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/test/java/featureFiles/feature.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/test/java/stepDefinitions/ServiceHooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/test/java/stepDefinitions/Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/src/test/java/testRunner/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/Web_Automation_Java-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/classes/base/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/classes/pageObjects/FilterMobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/classes/pageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/classes/pageObjects/SearchMobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/cucumber-reports/cucumber-pretty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/cucumber-reports/cucumberTestReport.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/cucumber-reports/junit_xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/test-classes/stepDefinitions/ServiceHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/test-classes/stepDefinitions/Steps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Web_Automation_java/target/test-classes/testRunner/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/main/java/Base/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/main/java/PageObjects/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/main/java/PageObjects/SearchMobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/main/java/PageObjects/SignInPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/test/java/FeatureFiles/Feature.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/test/java/Runner/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/test/java/StepDefinitions/ServiceHooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/src/test/java/StepDefinitions/Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/classes/Base/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/classes/PageObjects/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/classes/PageObjects/SearchMobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/classes/PageObjects/SignInPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/cucumber-reports/cucumber-pretty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/cucumber-reports/cucumberTestReport.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/cucumber-reports/junit_xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/Runner.TestRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/TEST-Runner.TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/test-classes/Runner/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/test-classes/StepDefinitions/ServiceHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Java_Test_Automation/Website_Automation_Java/target/test-classes/StepDefinitions/Steps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/pytest-selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/configurations/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/locators/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/locators/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/pages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/employeeInfopage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/homepage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/loginpage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/pimpage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pages/verifyemppage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/pytestdebug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/reporting/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/reporting/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/run.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/screenshots/testHomepage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/screenshots/test_PIMbutton_addButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/screenshots/test_employeeInfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/screenshots/test_loginpage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/screenshots/test_verify_empInfo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/tests/test_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/utilities/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/utilities/readconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest-Selenium_OrangeHRM/utilities/utility_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/Pytest_Selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/configurations/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/locators/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/locators/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pages/add_to_cart_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pages/home_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pages/remove_item_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pages/search_category_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/reporting/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/reporting/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/screenshots/test_Mobile[chrome].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/screenshots/test_Mobile[edge].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/screenshots/test_laptop[chrome].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/screenshots/test_laptop[edge].png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/testcases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/testcases/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/testcases/test_laptop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/testcases/test_mobile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/utilities/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/utilities/read_cofigurations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Pytest_Selenium_Flipkart/utilities/utility_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/requests_demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_Requests/tasks/task_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/PythonTasks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/hometask_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/hometask_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/pcl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/classes/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/hometask_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/hometask_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/hometask_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/hometask_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/datastructures/my_lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/errorsandexceptions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/errorsandexceptions/hometask_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/errorsandexceptions/my_lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/inputoutput/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/inputoutput/diff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/inputoutput/hometask_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/moreofpython/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/moreofpython/homeTask_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/hometask_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/hometask_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/hometask_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/hometask_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/pythonbasics/hometask_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/searching_sorting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/searching_sorting/binarysearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/searching_sorting/bubblesort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/searching_sorting/linearsearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/Python_programming/searching_sorting/selectionsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/RobotFramework1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/Results/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/Results/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/Results/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/Results/selenium-screenshot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/testcases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Test Automation/Python_Test_Automation/RobotFramework/testcases/demo1.robot" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dpDPVpfVhgU8Y7AiDbBI7F8qg7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.hometask_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python_Programs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a2d83f1-6c2c-41de-8838-a0cf0b35edee" name="Changes" comment="" />
+      <created>1710696101782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710696101782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

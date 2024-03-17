@@ -1,0 +1,4 @@
+PageObjects\SignInPage.class
+PageObjects\HomePage.class
+Base\TestBase.class
+PageObjects\SearchMobile.class
